@@ -1,4 +1,5 @@
-Definition and Usage
+<h3>Definition and Usage</h3>
+
 The video tag is used to embed video content in a document, such as a movie clip or other video streams.
 
 The video tag contains one or more <source> tags with different video sources. The browser will choose the first source it supports.

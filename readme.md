@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
-
 <h1>Definition and Usage<h1>
 <p>The <video> tag is used to embed video content in a document, such as a movie clip or other video streams.
 
